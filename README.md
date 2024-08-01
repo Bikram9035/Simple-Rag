@@ -18,7 +18,7 @@ An OpenAI API key
 ### Installation
 
 Clone this repository:
-Copygit clone https://github.com/yourusername/pdf-qa-system.git
+Copygit clone https://github.com/Bikram9035/Simple-Rag.git
 cd pdf-qa-system
 
 Install the required packages:
